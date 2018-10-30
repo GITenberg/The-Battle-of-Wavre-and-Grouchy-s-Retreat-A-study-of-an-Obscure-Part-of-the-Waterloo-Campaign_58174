@@ -1,11 +1,16 @@
 _repo: The-Battle-of-Wavre-and-Grouchy-s-Retreat-A-study-of-an-Obscure-Part-of-the-Waterloo-Campaign_58174
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58174-h/images/cover.jpg
 creator:
   author:
     agent_name: Kelly, William Hyde
     gutenberg_agent_id: '49807'
     url: http://www.gutenberg.org/2009/agents/49807
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58174#The-Battle-of-Wavre-and-Grouchy-s-Retreat-A-study-of-an-Obscure-Part-of-the-Waterloo-Campaign
 gutenberg_issued: '2018-10-27'
 gutenberg_type: Text
 identifiers:
